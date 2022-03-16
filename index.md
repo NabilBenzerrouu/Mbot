@@ -1,8 +1,7 @@
 ## Mbot
+Che cosa è un Mbot?
 
-You can use the [editor on GitHub](https://github.com/AlexTuila/Mbot/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+mBot è un robot in alluminio da assemblare, economico e versatile. Può rilevare ostacoli, seguire una linea, emettere suoni e segnali luminosi, essere telecomandato, comunicare via infrarossi con un altro robot.
 
 ### Markdown
 
