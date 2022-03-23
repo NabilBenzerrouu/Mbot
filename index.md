@@ -1,7 +1,7 @@
 ## Mbot
 Che cosa è un Mbot?
 
-mBot è un robot in alluminio da assemblare, economico e versatile. Può rilevare ostacoli, seguire una linea, emettere suoni e segnali luminosi, essere telecomandato, comunicare via infrarossi con un altro robot. ciao
+mBot è un robot in alluminio da assemblare, economico e versatile. Può rilevare ostacoli, seguire una linea, emettere suoni e segnali luminosi, essere telecomandato, comunicare via infrarossi con un altro robot. 
 
 ### Markdown
 
